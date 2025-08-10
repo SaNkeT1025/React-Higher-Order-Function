@@ -1,4 +1,3 @@
-import React from 'react'
 
 const Dashboard = ({ user }: { user: { name: string; isAuthincated: boolean } }) => {
   return (

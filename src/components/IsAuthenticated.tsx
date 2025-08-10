@@ -1,4 +1,3 @@
-import React from 'react'
 
 const IsAuthenticated = (WrappedComponent : any) => {
   const EnhancedComponent = (props : any) => {

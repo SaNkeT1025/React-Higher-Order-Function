@@ -1,4 +1,3 @@
-import React from 'react'
 
 const FirstWrapped = ({ name }: { name: string }) => {
   return (
