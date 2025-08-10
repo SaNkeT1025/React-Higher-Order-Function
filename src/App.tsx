@@ -1,7 +1,7 @@
 import './App.css'
 import Dashboard from './components/Dashboard'
-import FirstHoc from './components/FirstHoc'
-import FirstWrapped from './components/FirstWrapped'
+//import FirstHoc from './components/FirstHoc'
+//import FirstWrapped from './components/FirstWrapped'
 import IsAuthenticated from './components/IsAuthenticated'
 
 const AuthenticatedUser = IsAuthenticated(Dashboard)
